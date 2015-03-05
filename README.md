@@ -84,7 +84,7 @@ make sure everything portrays the tone and motive
 ![](sketch.JPG)
 
 ^ 	- brainstorm
-    - expiriment
+    - experiment
 	- take notes
 	- have fun
 
@@ -323,6 +323,15 @@ space - allow room to breathe
 
 ---
 
+## IMAGERY
+
+^ stock images
+included link to list of free stock image sites
+remember to read about licensing!
+always remember tone and intent
+
+---
+
 ## 1. Plan
 at least a little bit 
 
@@ -401,6 +410,7 @@ MVP concept - what minimum features need to be finished for it to be 'complete'?
 - [google fonts](http://www.google.com/fonts/)
 - [typekit](https://typekit.com/fonts)
 - [typecast](http://typecast.com/)
+- [free stock photos](http://bootstrapbay.com/blog/free-stock-photos/)
 - [font-family pairings](http://viget.com/inspire/superfamily-font-roundup-40-plus-intentional-font-pairings)
 - [test type contrast](http://leaverou.github.io/contrast-ratio/#%23E524DF-on-white)
 - [modular type-scale](http://type-scale.com/?size=16&scale=1.500&text=A%20Visual%20Type%20Scale&webfont=&font-family=%27Open%20Sans%27%2C%20serif&font-weight=400&font-family-headers=&font-weight-headers=inherit&background-color=white&font-color=%23333)
