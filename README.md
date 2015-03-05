@@ -1,9 +1,9 @@
 # DESIGN STUFFS
 
-### Aly Fluckey
-#### @wtfluckey
+This view includes the presenter notes, indicated by a ^ at the beginning of the line. To view the presentation as a deck, please go [here](https://speakerdeck.com/wtfluckey/design-stuffs). 
 
-This file included the presenter notes, indicated by a ^ at the beginning of the line. To view the presentation as a deck, please go here. 
+Aly Fluckey
+[@wtfluckey](https://twitter.com/wtfluckey)
 
 ---
 
@@ -276,8 +276,6 @@ ex: Helvetica
 
 ---
 
-![](space.jpg)
-
 ### size
 -
 ### [contrast](http://leaverou.github.io/contrast-ratio/#%23E524DF-on-white) 
@@ -308,9 +306,6 @@ space - allow room to breathe
 	1:1.618 (golden section)
 	3:5 (major sixth)
 
--
--
--
 [type-scale](http://type-scale.com/?size=16&scale=1.500&text=A%20Visual%20Type%20Scale&webfont=&font-family=%27Open%20Sans%27%2C%20serif&font-weight=400&font-family-headers=&font-weight-headers=inherit&background-color=white&font-color=%23333)
 
 --- 
@@ -400,13 +395,12 @@ MVP concept - what minimum features need to be finished for it to be 'complete'?
 
 - [design school for developers](http://webdesign.tutsplus.com/series/design-school-for-developers--webdesign-13793)
 - [balsamiq wireframes](https://balsamiq.com/)
-- [charachteristics of color and color schemes](http://webdesign.tutsplus.com/articles/understanding-the-qualities-and-characteristics-of-color--webdesign-13292)
+- [characteristics of color and color schemes](http://webdesign.tutsplus.com/articles/understanding-the-qualities-and-characteristics-of-color--webdesign-13292)
 - [kuler](https://color.adobe.com/create/color-wheel/)
 - [paletton](http://paletton.com/#uid=32Z0+0kKYKYn1LUtBL7LesuMhm6)
 - [google fonts](http://www.google.com/fonts/)
 - [typekit](https://typekit.com/fonts)
 - [typecast](http://typecast.com/)
-
 - [font-family pairings](http://viget.com/inspire/superfamily-font-roundup-40-plus-intentional-font-pairings)
 - [test type contrast](http://leaverou.github.io/contrast-ratio/#%23E524DF-on-white)
 - [modular type-scale](http://type-scale.com/?size=16&scale=1.500&text=A%20Visual%20Type%20Scale&webfont=&font-family=%27Open%20Sans%27%2C%20serif&font-weight=400&font-family-headers=&font-weight-headers=inherit&background-color=white&font-color=%23333)
