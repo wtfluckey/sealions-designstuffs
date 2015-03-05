@@ -1,11 +1,9 @@
 # DESIGN STUFFS
 
--
--
--
--
 ### Aly Fluckey
 #### @wtfluckey
+
+This file included the presenter notes, indicated by a ^ at the beginning of the line. To view the presentation as a deck, please go here. 
 
 ---
 
@@ -408,10 +406,6 @@ MVP concept - what minimum features need to be finished for it to be 'complete'?
 - [google fonts](http://www.google.com/fonts/)
 - [typekit](https://typekit.com/fonts)
 - [typecast](http://typecast.com/)
-
---- 
-
-![](linx2.jpg)
 
 - [font-family pairings](http://viget.com/inspire/superfamily-font-roundup-40-plus-intentional-font-pairings)
 - [test type contrast](http://leaverou.github.io/contrast-ratio/#%23E524DF-on-white)
